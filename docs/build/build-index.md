@@ -6,7 +6,7 @@ description: Reference point for the Polkadot builder guides.
 keywords: [build, index, tools, resources]
 slug: ../build-index
 ---
-
+12
 Welcome to the builder's section of the {{ polkadot: Polkadot Wiki. :polkadot }}
 {{ kusama: Kusama Guide. :kusama }}
 
